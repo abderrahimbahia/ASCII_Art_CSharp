@@ -44,7 +44,7 @@ they face each other as if having a head on collision...see below:
 
 --------------------------------------------
 ### Expected Output:
-
+```
   ______
  /|_||_\'.__
 ='-(_)--(_)-'
@@ -54,6 +54,7 @@ they face each other as if having a head on collision...see below:
   ______         ______
  /|_||_\'.__ __.'/_||_|\
 ='-(_)--(_)-''-(_)--(_)-'=
+```
 
 ----------------------------------------------
 
