@@ -1,4 +1,4 @@
-# ASCIIArt-Program
+# ASCII-Art Program
 
 This is a simple ASCII art program created using C# for a programming class in college, I used it here to learn more about Github and practicing Markdown by making README file for my program. 
 ---------------------------------------
